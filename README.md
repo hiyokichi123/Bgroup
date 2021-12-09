@@ -1,2 +1,0 @@
-# Bgroup
-B group World
